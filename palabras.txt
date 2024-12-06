@@ -1,0 +1,10 @@
+casa
+teclado
+perro
+silla
+agua
+escritorio
+electricidad
+verde
+zafiro
+hospital
